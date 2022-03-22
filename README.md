@@ -4,4 +4,6 @@
 -  [Паттерны](patterns.md)
 -  [Пользовательские контейнеры](users_conteiners.md)
 -  [CMake](cmake.md)
+-  [Подходы](approachs.md)
+-  [Идиомы](idioms.md)
 
