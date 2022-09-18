@@ -1,3 +1,4 @@
+## Пораждающие
 -  [Абстрактная фабрика](generative/abstract_factory.cpp)
 -  [Строитель](generative/builder.cpp)
 -  [Внедрение зависимости](generative/dependency_injection.cpp)
@@ -8,3 +9,4 @@
 -  [Прототип](generative/prototype.cpp)
 -  [Одиночка](generative/singleton.cpp)
 
+#cpp 
