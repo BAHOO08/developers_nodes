@@ -7,12 +7,8 @@
         "id": "d47de77b02f71857",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cpp/cpp.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp/cpp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp/cpp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cpp/cpp.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +122,15 @@
   },
   "active": "d47de77b02f71857",
   "lastOpenFiles": [
-    "cpp/approachs.md",
-    "cpp/idioms.md",
-    "cpp/chaining_method.md",
-    "cpp/patterns.md",
-    "cpp/users_conteiners.md",
     "cpp/patterns/generative.md",
-    "cpp/parse_date.md",
-    "patterns/generative.md",
+    "generative.md",
+    "cpp/idioms.md",
+    "cpp/IILE.md",
+    "README.md",
+    "cpp/cpp_node.md",
     "cpp/cpp.md",
-    "README.md"
+    "cpp/approachs.md",
+    "cpp/chaining_method.md",
+    "cpp/patterns.md"
   ]
 }
