@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "e4bc8d3dba899947",
+    "type": "split",
+    "children": [
+      {
+        "id": "d47de77b02f71857",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "linux.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "448bfe1d3f290ca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcfea013c050d4a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8545928d6a346074",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e1455af636a6654",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cpp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4eec470f867cbe9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "984b6a25d04ed0f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "302e90793a0b1cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bf54cedfbb24433",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2d48a7329baf8e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf5bd75ae3552703",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b73dcb5fe78b3c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d47de77b02f71857",
+  "lastOpenFiles": [
+    "README.md",
+    "git.md",
+    "cpp/assinc.md",
+    "cpp/approachs.md",
+    "cmake.md",
+    "cpp/IILE.md",
+    "cpp/idioms.md",
+    "cpp/cpp.md",
+    "cpp/CRTP.md",
+    "cpp/patterns/generative.md"
+  ]
+}
