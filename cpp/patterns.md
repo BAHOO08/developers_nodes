@@ -1,0 +1,2 @@
+- [Порождающие](patterns/generative.md)
+
