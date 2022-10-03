@@ -6,3 +6,5 @@
 -  [Пользовательские контейнеры](users_conteiners.md)
 -  [Подходы](approachs.md)
 -  [Идиомы](idioms.md)
+- Valgrind
+- [gdb](gdb.md)

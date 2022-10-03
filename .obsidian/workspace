@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux.md",
+            "file": "cpp/gdb.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux.md",
+                "file": "cpp/gdb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux.md",
+                "file": "cpp/gdb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +117,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux.md"
+                "file": "cpp/gdb.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "d47de77b02f71857",
   "lastOpenFiles": [
-    "README.md",
-    "git.md",
-    "cpp/assinc.md",
-    "cpp/approachs.md",
-    "cmake.md",
+    "cpp/patterns.md",
     "cpp/IILE.md",
-    "cpp/idioms.md",
+    "cpp/users_conteiners.md",
+    "cpp/cpp_node.md",
     "cpp/cpp.md",
-    "cpp/CRTP.md",
-    "cpp/patterns/generative.md"
+    "cpp/approachs.md",
+    "cpp/assinc.md",
+    "cpp/gdb.md",
+    "cpp/parse_date.md",
+    "cpp/idioms.md"
   ]
 }
